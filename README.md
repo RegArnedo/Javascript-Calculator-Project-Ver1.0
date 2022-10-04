@@ -2,7 +2,7 @@
 Calculator Project written in Javascript 
 
 # Description / Story
-I was thumbing through my local repo's looking for a project that had a bit of code that I wanted to cross reference.  Ended up finding this old project I put together when I first started playing with Javascript.  Decided to added to my GitHub as it's complete and that project was a great starting experience.
+I was thumbing through my local repo's looking for a project that had a bit of code that I wanted to cross reference.  Ended up finding this old project I put together when I first started playing with Javascript.  Decided to add it to my GitHub as it's complete and that project was a great starting experience.
 
 It was a great experience for practicing Beginner Conditional Statements and refactoring Function code.  Initially I had each of the Math operator functions with its own code function section but then practiced refaactoring the Operator code because 99.9% of it was repeated.  
 
