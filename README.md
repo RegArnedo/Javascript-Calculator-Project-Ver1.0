@@ -7,3 +7,6 @@ I was thumbing through my local repo's looking for a project that had a bit of c
 It was a great experience for practicing Beginner Conditional Statements and refactoring Function code.  Initially I had each of the Math operator functions with its own code function section but then practiced refaactoring the Operator code because 99.9% of it was repeated.  
 
 This Ver 1.0 was pretty much stickign to the script of the project.  I have envisioned a Ver 2.0 where I'll build upon it by exercising coming up with ideas on my own to implment and just grinding to code it.
+
+# Running it
+After grabbing the repo files, just open the index.html in your web browswer
